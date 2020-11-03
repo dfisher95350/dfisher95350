@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-I'm a professional software developer of many years experience.
-
-My personal repositories are private, but I've provided an overview (and my résumé) on my Github Pages site: https://dfisher95350.github.io/.
+I'm a professional software developer of many years experience. My personal repositories are private, but I've provided an overview (and my résumé) on my Github Pages site: https://dfisher95350.github.io/.
 
 
