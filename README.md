@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dfisher95350/dfisher95350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I stubbed out a Github Pages site at https://dfisher95350.github.io/.
