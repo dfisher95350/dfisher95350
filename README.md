@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-I'm a professional software developer of many years experience. My personal repositories are private, but I've provided an overview (and my résumé) on my GitHub Pages site: https://dfisher95350.github.io/.
+I'm a professional software developer of many years experience. You can review my technical experience (and my résumé) here: https://dfisher95350.github.io/.
 
-As a long-time user of the Atlassian suite, I am late to GitHub (because Bitbucket was the first to have no-cost private repositories). What you're not seeing here (because they're private): `cpp`, `data`, `docker`, `dotnet`, `go`, `java`, `javascript`, `kubernetes`, `maven`, `my_env`, `python`, `ruby`, `rust`, `unity`, `vagrant`. The `java` repo is polyglot, including `Kotlin`, and contains a bunch of `Spring`. Each repository contains language and library exercises, framework experiments, dev configurations, etc.
+My (private) repositories reflect my technical interests, among which the `java` (including `Kotlin`) and `javascript` (including `TypeScript`) ecosystems are chief. Others include `cpp`, `data`, `docker`, `dotnet`, `go`, `kubernetes`, `maven`, `python`, `ruby`, `rust`, `unity`, `vagrant`. Each repository contains language and library exercises, framework experiments, dev configurations, etc. I also keep a `notebook` of over-arching topics, including design patterns. 
+
+As a long-time user of the Atlassian suite, I am late to GitHub. (Bitbucket was first to have no-cost private repositories.)
 
 For deep cut nerd cred, my MO2 and ENB configurations for Skyrim and Fallout are also committed here. :video_game:
 
