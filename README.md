@@ -23,3 +23,5 @@ For deep cut nerd cred, my MO2 and ENB configurations for Skyrim and Fallout are
 
 I also enjoy drawing and painting. My profile picture is a freehand self-portrait made with Procreate on iPad Pro.
 
+D.B.A. [Douglas J Fisher LLC](https://mblsportal.sos.state.mn.us/Business/SearchDetails?filingGuid=fc8671b3-91d4-e011-a886-001ec94ffe7f), MN, USA.
+
