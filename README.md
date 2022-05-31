@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 ## Welcome!
 
 I'm a **professional software developer** of many years experience. You can review my technical experience (and my
-résumé) here: **https://dfisher95350.github.io/**. As a long-time user of the Atlassian suite, I am late to GitHub (
-because Bitbucket was first to have no-cost private repositories).
+résumé) here: **https://dfisher95350.github.io/**.
 
 My **private repositories** reflect my technical interests, among which the `java` and `javascript` ecosystems are
 chief. These repos are polyglot (i.e. they include, for example, Kotlin and TypeScript, respectively). Other repos
